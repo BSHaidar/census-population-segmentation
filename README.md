@@ -1,2 +1,2 @@
 # census-population-segmentation
-Using Census data for clustering a dataset using k-means after reducing the dimensionality using PCA to understand the essential characteristics of different counties in the US and segment them into similar groups.
+Using Census data for clustering different counties in the US and segment them into similar groups by applying k-means after reducing the dataset from 33 dimensions to 7 dimensions using Principal Component Analysis (PCA).
